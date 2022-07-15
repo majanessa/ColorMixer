@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15cc32862bd86b342964754e8bb2f818, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  sceneName: Level 1
+  shortDescription: 
+  music: {fileID: 0}
+  musicVolume: 0
+  postprocess: {fileID: 0}
+  foodsLevel:
+  - {fileID: 7027919624004189749, guid: e06ab8aa086fc5753ad6fe241c939779, type: 3}
+  - {fileID: 6296668994373852463, guid: 0f4c3fd7ca66087c49710cbb52595a5d, type: 3}
